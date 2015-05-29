@@ -1,0 +1,39 @@
+body{
+	background-color: #E5E4E2;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: #4C787E;
+	text-align: center;
+	
+
+}
+
+img{
+	border: 5px solid #C5908E;
+	margin-top: 50px;
+	float: center;
+	position: relative;
+}
+
+#heading{
+	color: #4C787E;
+	text-align: center;
+}
+
+.subTitle{
+	text-align: center;
+	font-size: 16pt;
+}
+
+.descrip{
+	text-align: center;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue";
+}
+
+hr{
+	background-color: #C5908E;
+	color: #C5908E;
+	width: auto;
+	height: .7px;
+	border: 0 none;
+}
+
